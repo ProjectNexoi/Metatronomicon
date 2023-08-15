@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/embelishment.css">
+    <link rel="stylesheet" href="../css/404.css">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+  </head>
+  <body>
+
+    <div class="HeaderWrapper">
+      <a href="/" class="SiteHeaderText">Metatronomicon</a>
+      <p class="SiteHeaderSubtext">The Scribe's Tome</p>
+
+      <div class="NavWrapper">
+        {% if nav|length>1 %}
+          {% for nav_item in nav %}
+            <div class="NavItem"><a class="NavText" href="{{ nav_item.url|url }}">{{ nav_item.title }}</a></div>
+          {% endfor %}
+        {% endif %}
+      </div>  
+    </div>
+
+    <p class="error404">404</p>
+
+    <p class="errorsubtext">This page doesnt exist!</p>
+
+    <a href="/" class="errorsubtext">Go back to Home Page</a>
+
+  </body>
+</html>

@@ -1,0 +1,10 @@
+.error404{
+    margin: 100px auto;
+    font-size:60px;
+    color:darkcyan;
+}
+
+.errorsubtext{
+    margin:60px auto;
+    font-size:20px;
+}

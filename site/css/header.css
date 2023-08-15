@@ -1,0 +1,58 @@
+/* Header CSS */
+
+.HeaderWrapper{
+    text-align: center;
+}
+
+.SiteHeaderText{
+    font-family: Belanosima;
+    font-size: 50px;
+    margin: 20px auto 5px auto;
+    transition: all 0.2s;
+    cursor: pointer;
+    color: black !important;
+    text-decoration: none !important;
+}
+
+.SiteHeaderText:hover{
+    color: lightseagreen !important;
+}
+
+.SiteHeaderSubtext{
+    font-family: Bacasime;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+
+/* Navbar CSS*/
+
+.NavWrapper{
+    margin:20px auto 15px;
+    width:60%;
+    height:40px;
+    padding:0px;
+    display:flex;
+    flex-direction:row;
+}
+
+.NavItem{
+    height: 40px;
+    margin: auto;
+    font-size: 20px;
+    width:auto;
+    border-color:lightgray;
+}
+
+.NavText{
+    color:grey !important;
+    text-shadow: 0px 0px 10px white;
+    cursor:pointer;
+    transition: all 0.2s;
+    text-decoration: none;
+}
+
+.NavText:hover{
+    color: lightseagreen !important;
+}

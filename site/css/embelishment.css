@@ -1,0 +1,11 @@
+.HubTable{
+    width: 90%;
+    margin:auto;
+    height: 50px;
+    padding: 20px;
+    text-align:center;
+    table-layout: fixed;
+}
+.hubtable td{
+    width:200px;
+}

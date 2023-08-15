@@ -1,0 +1,21 @@
+site_name: Metatronomicon
+site_url: https://example.com/
+
+nav:
+  - Mechanics: mechanics/hub-mechanics.html
+  - Events: events/hub-events.html
+  - Locations: locations/hub-locations.html
+  - Lifeforms: lifeforms/hub-lifeforms.html
+  - People: people/hub-people.html
+  - Objects: objects/hub-objects.html
+  - Cosmic Architecture: cosmicarchitecture/hub-cosmicarchitecture.html
+
+theme: 
+  name: mkdocs
+  custom_dir: custom_theme
+
+markdown_extensions:
+    - toc:
+        toc_depth: 2-6
+
+use_directory_urls: false

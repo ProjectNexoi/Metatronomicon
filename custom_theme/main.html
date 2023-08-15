@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/embelishment.css">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+  </head>
+  <body>
+
+    <div class="HeaderWrapper">
+      <a href="/" class="SiteHeaderText">Metatronomicon</a>
+      <p class="SiteHeaderSubtext">The Scribe's Tome</p>
+
+      <div class="NavWrapper">
+        {% if nav|length>1 %}
+          {% for nav_item in nav %}
+            <div class="NavItem"><a class="NavText" href="{{ nav_item.url|url }}">{{ nav_item.title }}</a></div>
+          {% endfor %}
+        {% endif %}
+      </div>  
+    </div>
+
+    <div class="MainWrapper">
+        <div class="ContentPositioner"></div>
+      
+        <div class="SideBarWrapper">
+          <p>Table of Contents</p>
+          <div class="TOCSeperator"></div>
+          <ul class="toc">
+            <li> <a href="#">Top</a> </li>
+
+            {% if page.toc|length>0 %}
+              {% for toc_item in page.toc %}
+
+              <li><a href="#{{toc_item.id}}">{{toc_item.title}}</a><li>
+
+                {% if toc_item.children|length>0 %}
+                  <ul class="toc nested">
+                  {% for toc_child in toc_item.children %}
+
+                  <li><a href="#{{toc_child.id}}">{{toc_child.title}}</a><li>
+                    
+                    {% if toc_child.children|length>0 %}
+                    <ul class="toc nested">
+                      {% for toc_child2 in toc_child.children %}
+
+                      <li><a href="#{{toc_child2.id}}">{{toc_child2.title}}</a><li>
+
+                      {% endfor %}
+                    </ul>
+                    {% endif %}
+
+                  {% endfor %}
+                  </ul>
+                {% endif %}
+
+              {% endfor %}
+            {% endif %}
+          </ul>
+      </div>
+
+      <div class="ContentWrapper">
+        {{ page.content }}
+      </div>
+    </div>
+
+  </body>
+</html>
