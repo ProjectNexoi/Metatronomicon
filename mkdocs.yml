@@ -19,3 +19,7 @@ markdown_extensions:
         toc_depth: 2-6
 
 use_directory_urls: false
+
+docs_dir: 'src'
+
+site_dir: 'docs'
