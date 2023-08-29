@@ -1,6 +1,6 @@
 # Religions
 
-## End-of-the-world Prophesies
+## End-of-the-world Prophecies
 
 ### Primoridal Armageddon
 
