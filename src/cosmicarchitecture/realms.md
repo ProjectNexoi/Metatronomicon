@@ -13,7 +13,8 @@ For example, the people of [Babel](../locations/babel.html) believe that the Lad
 ### Etymology
 
 The name of the Ladder refers to two things:  
-- The Ladder's existence was discovered by Jacob, Son of Isaac.  
+
+- The Ladder's existence was discovered by [Jacob](../people/jacob.html), Son of [Isaac](../people/isaac.html).  
 - As a result of the Ladder's nature, explained previously, it gained its current name.  
 
 ## Metatron

@@ -24,7 +24,7 @@ Select from one of the pages below to begin reading:
         <a href="undead.html">Undead</a>
         </td>
         <td>
-        <a href="progenitors.html">Progenitors</a>
+        <a href="primordials.html">Primordials</a>
         </td>
     </tr>
 </table>

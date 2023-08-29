@@ -1,5 +1,12 @@
 # Magic
 
+
+
+
+needs rewrite
+|
+V
+
 Magic is, by definition, the alteration of *Fate*, through the usage of *Will*, transmitted by *Words*.  
 It is the act of, instead of conforming to the world, making the world conform to you.  
 Through Magic, actions which are otherwise impossible become possible, like draining an ocean and toppling a mountain.  

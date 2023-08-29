@@ -20,5 +20,8 @@ Select from one of the pages below to begin reading:
         <td>
         <a href="materials.html">Materials</a>
         </td>
+		<td>
+		<a href="religions.html">Religions</a>
+		</td>
     </tr>
 </table>
