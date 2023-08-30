@@ -43,12 +43,12 @@ body{
 
 /* Site-Wide Text CSS */
 
-h1,h2,h3,h4,h5,h6,li{
+h1,h2,h3,h4,h5,h6{
     font-family: Helvetica;
     margin: 20px 30px;
 }
 
-p{
+p,li{
     margin: 10px 30px;
     font-size: 1.1em;
 }
