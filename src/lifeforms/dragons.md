@@ -27,7 +27,8 @@ All Dragons possess immense physical strength. On average, a dragon's full power
 
 A Dragons breath is one of the abilities they possess. It is a specialized form of magic, aided by biological/mechanical mechanisms within their bodies.  
 A Dragon's breath is the only known way to produce a temperature high enough to melt Dragon Scale reliably enough to use it for smithing.  
-The temperature this produces rivals and sometimes even surpasses the Sun's surface temperature (~5,600°C)
+The temperature this produces rivals and sometimes even surpasses the Sun's surface temperature (~5,600°C).  
+In extreme cases, the Breath can surpass the aforementioned statistic, and come in excess of several million degrees.
 
 ## Known Individuals
 
