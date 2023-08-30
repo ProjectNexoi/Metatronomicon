@@ -51,7 +51,7 @@ h1,h2,h3,h4,h5,h6{
 p,li{
     margin: 10px 30px;
     font-size: 1.1em;
-    max-width: 75%;
+    max-width: 85%;
 }
 
 a:link,a:visited,a:active{
@@ -142,7 +142,7 @@ h4{
     width: 60%;
     margin: 0px auto 0px 0px;
     height: 100%;
-    padding: 60px;
+    padding: 80px;
     border: 1px solid grey;
     border-bottom: none;
     border-radius: 20px 20px 0px 0px;
