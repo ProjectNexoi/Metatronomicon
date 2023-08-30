@@ -41,6 +41,8 @@ See: [Dragon Scale](../mechanics/materials.html#dragon-scale).
 
 ## Known Individuals
 
-### Mountain King
+### The Mountain King
 
-The Mountain King is the name given to a Dragon whose territory borders the 
+The Mountain King is the name given to a Dragon whose territory borders the.  
+The Dragon's scale is said to be "Half a mountain's size", according to rare accounts where the Dragon was witnessed.
+The source for it's name is from the nature of its domain, a lone mountain named "PLACEHOLDER", measured to be the tallest ever recorded, exceeding 10,000 meters. Its domain also encompasses the forest that surrounds said mountain.
