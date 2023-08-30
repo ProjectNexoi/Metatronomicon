@@ -6,8 +6,6 @@ These almost mechanical parts of the dragons are their scales, bones and other r
 The dragon eventually fuses with the inorganic part of its body, becoming completely inseparable from it.
 Dragons do not have two distinct sexes and do not possess any reproductive organs.
 
-See Also: [Dragon Scale](../mechanics/materials.html#dragon-scale).
-
 ## Lifecycle
 
 1. The dragon is born from a metal shell created by its parents which is infused with large amounts of their magic, soul-mass, and biological tissue. This proccess results in the creation of offspring.  
@@ -29,6 +27,10 @@ A Dragons breath is one of the abilities they possess. It is a specialized form 
 A Dragon's breath is the only known way to produce a temperature high enough to melt Dragon Scale reliably enough to use it for smithing.  
 The temperature this produces rivals and sometimes even surpasses the Sun's surface temperature (~5,600°C).  
 In extreme cases, the Breath can surpass the aforementioned statistic, and come in excess of several million degrees.
+
+### Durability
+
+See: [Dragon Scale](../mechanics/materials.html#dragon-scale).
 
 ## Known Individuals
 
