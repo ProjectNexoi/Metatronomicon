@@ -39,13 +39,13 @@
                   <ul class="toc nested">
                   {% for toc_child in toc_item.children %}
 
-                  <li><a href="#{{toc_child.id}}">{{toc_child.title}}</a><li>
+                  <li class="nestedElement"><a href="#{{toc_child.id}}">{{toc_child.title}}</a><li>
                     
                     {% if toc_child.children|length>0 %}
                     <ul class="toc nested">
                       {% for toc_child2 in toc_child.children %}
 
-                      <li><a href="#{{toc_child2.id}}">{{toc_child2.title}}</a><li>
+                      <li class="nestedElement"><a href="#{{toc_child2.id}}">{{toc_child2.title}}</a><li>
 
                       {% endfor %}
                     </ul>
