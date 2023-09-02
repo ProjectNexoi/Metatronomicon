@@ -4,7 +4,6 @@
 
 four demon kings:  
 
-- Abhorrence  
-- Cruelty  
-- Hubris  
+- Abhorrence  - Beelzebub
+- Hubris  - Asmodeus
 - Avarice  
