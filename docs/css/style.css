@@ -48,14 +48,8 @@ h1,h2,h3,h4,h5,h6{
     margin: 20px 30px;
 }
 
-p{
+p,li{
     margin: 10px 30px;
-    font-size: 1.1em;
-    max-width: 85%;
-}
-
-li{
-    margin: 10px 10px;
     font-size: 1.1em;
     max-width: 85%;
 }
@@ -121,7 +115,7 @@ h4{
 }
 
 .nested{
-    padding:0px 0px 0px 20px;
+    padding:0px 0px 0px 20px !important;
 }
 
 .TOCSeperator{
