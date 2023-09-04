@@ -11,5 +11,8 @@ Select from one of the pages below to begin reading:
         <td>
         <a href="babel.html">Babel</a>
         </td>
+        <td>
+        <a href="eden.html">Eden</a>
+        </td>
     </tr>
 </table>
