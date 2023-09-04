@@ -1,6 +1,6 @@
 # Eden
 
-## Banishment of Humanity from Eden
+## Banishment of Humankind
 
 After the establishment of Eden, [Adam](../people/adam.html) and Eve had many children within Eden, and all were happy.  
 Many years later, tragedy struck. Eve, Adam's wife, was on her deathbed. It was natural, the way all beings must end.  
