@@ -9,7 +9,7 @@ Seeing this from their [moon](../cosmicarchitecture/tethomot.html), an ancient d
 They would convince Adam to commit the most heinous crime of all.  
 On Adam's travels to find a cure, had climbed on top of [Mount. dontremembernameinasec](../locations/), the tallest place in [planetnamehere](../cosmicarchitecture/), laid down on its peak, and looked upwards.  
 The two did not waste a moment, and with all thier might, conjoured a message to Adam's mind.  
-It read: "If you may take of Eden's fruit, and feed it to Her; She shall live forevermore."  
+It read: "Grant upon her the fruit of Eden; and she shall be saved."  
 Adam was immediately enthralled in this promise. The moment he saw a single glimpse of hope, he latched onto it, and ran as fast as his legs could carry him, back towards that great city.  
 It took him seven days and seven7 nights to complete the journey, and he almost didn't make it in time.  
 He rushed to the trunk of the great protector. He climbed for seven hours, until he had reached the top.  
