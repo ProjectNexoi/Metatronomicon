@@ -46,3 +46,10 @@ See: [Dragon Scale](../mechanics/materials.html#dragon-scale).
 The Mountain King is the name given to a Dragon whose territory borders the.  
 The Dragon's scale is said to be "Half a mountain's size", according to rare accounts where the Dragon was witnessed.
 The source for it's name is from the nature of its domain, a lone mountain named "PLACEHOLDER", measured to be the tallest ever recorded, exceeding 10,000 meters. Its domain also encompasses the forest that surrounds said mountain.
+
+### Son of the Sea // Rahab
+
+**Ancestral**  
+
+The lord of the western sea, also known as "Rahab" in ancient texts, is an incredibly powerful Dragon.  
+Not much is known of it, outside of myth and legends. All that can be said with certainty is it's wickedness, and absolute greed.  
