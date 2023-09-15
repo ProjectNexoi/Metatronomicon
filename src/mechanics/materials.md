@@ -8,6 +8,10 @@ Aggadium is considered as one of the world's most resistant and strongest materi
 
 This metal's source is still veiled in mystery, but according to folklore and many religious texts, it is written that the [Leviathan](../lifeforms/primordials.html), while escaping from [PLANETNAMEHERE](../cosmicarchitecture/placehold) after its duel with the [Behemoth](../lifeforms/primordials.md), grazed past the moon of [Ammakinn](../cosmicarchitecture/ammakinn.html), sending shards of its surface hurling down towards PLANETNAMEHERE.  These shards are believed to be Aggadium.
 
+### Uses
+
+Historically, Aggadium was used in many formal settings. An example of this is the crown of the [Empire](../locations/), which is made from Aggadium.
+
 ### Occurrence in Nature
 
 ## Dragon Scale
