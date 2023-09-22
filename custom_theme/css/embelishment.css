@@ -1,4 +1,4 @@
-.HubTable{
+table{
     width: 90%;
     margin:auto;
     height: 50px;
@@ -6,6 +6,6 @@
     text-align:center;
     table-layout: fixed;
 }
-.hubtable td{
+td{
     width:200px;
 }
