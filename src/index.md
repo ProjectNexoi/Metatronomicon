@@ -7,6 +7,10 @@ Welcome to the Metatronomicon Wiki, the official database of all things regardin
 
 Visit one of the site's hubs, the catalogue of all relevant pages:
 
+|Mechanics|Events|
+|---|---|
+|Magic|The Flood|
+
 <table class="HubTable">
     <tr>
         <td>
