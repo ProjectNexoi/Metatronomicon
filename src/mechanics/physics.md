@@ -1,6 +1,6 @@
 # Physics
 
-**REWRITE M E!**
+**REWRITE ME!**
 
 In the Metatronomicon Universe, there exists an expanded system of physics, different from ours.  
 This Expansion includes two additional particles, named the "Senticule", and the "Magitron".
