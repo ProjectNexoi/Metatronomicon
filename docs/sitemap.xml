@@ -91,11 +91,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/mechanics/egoictrinity.html</loc>
-         <lastmod>2023-11-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://example.com/mechanics/hub-mechanics.html</loc>
          <lastmod>2023-11-16</lastmod>
          <changefreq>daily</changefreq>
@@ -117,6 +112,11 @@
     </url>
     <url>
          <loc>https://example.com/mechanics/religions.html</loc>
+         <lastmod>2023-11-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/mechanics/theself.html</loc>
          <lastmod>2023-11-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
