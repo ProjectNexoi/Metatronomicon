@@ -6,4 +6,4 @@ four demon kings:
 
 - Malice  - Beelzebub
 - Hubris  - Asmodeus
-- Avarice  - 
+- Avarice  - Belial/Mastema
