@@ -12,7 +12,7 @@ Dragons do not have two distinct sexes and do not possess any reproductive organ
 ### Strength
 
 All Dragons possess immense physical strength.  
-Certain myths tell of them being able to crush an entire place in a single hit. These legends are not particularaly out of the realm of reason.  
+Certain myths tell of them being able to crush an entire palace easily.
 
 ### Magic
 
@@ -47,7 +47,7 @@ The source for its name is the nature of its domain, a lone mountain named "PLAC
 
 **Title:**  King of the Lesser Waters
 
-The lord of the western sea, also known as "Rahab" in ancient texts, is an incredibly powerful Dragon.  
+Lord over the western sea, "Rahab" in ancient texts, is an incredibly powerful Dragon.  
 Not much is known of it, outside of myth and legends. All that can be said with certainty is its wickedness, and absolute greed.  
 
 In its title, the "Lesser Waters" refer to the oceans of the planet. In contrast, the "Greater Waters" refers to the [Deep Chaos](../cosmicarchitecture/deepchaos.html).
@@ -57,3 +57,9 @@ In its title, the "Lesser Waters" refer to the oceans of the planet. In contrast
 **Ancestral**
 
 **Title:** The One Enthroned
+
+### Adiron
+
+**Ancestral**  
+
+**Title:** 
