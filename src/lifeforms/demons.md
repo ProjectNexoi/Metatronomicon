@@ -1,6 +1,6 @@
 # Demons
 
-## Heirarchy
+## Hierarchy
 
 All Demons belong in one of three tribes.
 
@@ -9,15 +9,15 @@ All Demons belong in one of three tribes.
 The tribe of Malice is led by the king Beelzebub; Lord of the Flies.
 Within itself, Malice encompasses three aspects:
 
-**Hate**
+#### Hate
 
 Pure, unrefined hatered towards anything that isn't and *is* itself. None are spared.
 
-**Cruelty**
+#### Cruelty
 
 The overpowering desire to hurt the other. Reveling in the pain and suffering of the many.
 
-**placehold**
+#### placehold
 
 
 
@@ -26,11 +26,11 @@ The overpowering desire to hurt the other. Reveling in the pain and suffering of
 Reigning supreme as Hubris personified is Asmodeus; placehold.
 Enclosed by Hubris, these three facets are:
 
-**Superiority**
+#### Superiority
 
-**Kingship**
+#### Kingship
 
-**placehold**
+#### placehold
 
 
 ### Avarice
@@ -38,8 +38,8 @@ Enclosed by Hubris, these three facets are:
 Mastema; placehold.
 
 
-**Greed**
+#### Greed
 
-**Conquest**
+#### Conquest
 
-**placehold**
+#### placehold
