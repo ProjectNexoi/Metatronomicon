@@ -6,8 +6,8 @@ All Demons belong in one of three tribes.
 
 ### Malice
 
-The tribe of Malice is led by the king Beelzebub; The Lord of the Flies.
-Withim itself, Malice encompasses three aspects.
+The tribe of Malice is led by the king Beelzebub; Lord of the Flies.
+Within itself, Malice encompasses three aspects:
 
 **Hate**
 
@@ -23,29 +23,23 @@ The overpowering desire to hurt the other. Reveling in the pain and suffering of
 
 ### Hubris
 
-
+Reigning supreme as Hubris personified is Asmodeus; placehold.
+Enclosed by Hubris, these three facets are:
 
 **Superiority**
 
-**placehold**
+**Kingship**
 
 **placehold**
 
 
 ### Avarice
 
+Mastema; placehold.
 
 
 **Greed**
 
-**placehold**
-
 **Conquest**
 
-## Notes
-
-four demon kings:  
-
-- Malice  - Beelzebub
-- Hubris  - Asmodeus
-- Avarice  - Belial/Mastema
+**placehold**
